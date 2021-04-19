@@ -6,3 +6,23 @@
     background-color: rgb(127, 212, 233);
     color: antiquewhite;
 }
+
+.headerOne {
+margin-left: 15px;
+
+}
+
+.by{
+margin-left: 15px;
+}
+
+.paraOne{
+margin-left: 15px;
+}
+
+
+
+.oldfashioned{
+    height: 200px;
+    border-radius: 50%;
+}
